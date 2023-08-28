@@ -1,0 +1,32 @@
+en:
+  loan_amount: 'How much money would you like to borrow (denominated in USD)?'
+  annual_interest: "What's the annual interest rate?"
+  loan_duration: 'How long is the loan duration?'
+  loan_years: 'Years:'
+  loan_months: 'Months:'
+  valid_number: "That's not a valid number. Try again."
+  loan_amount_zero: 'The loan amount must be more than 0.'
+  interest_negative: 'The interest rate cannot be negative.'
+  loan_duration_integer: 'Only whole numbers work for the loan term.'
+  loan_duration_negative: 'The loan duration cannot be negative.'
+  loan_duration_zero: 'The loan term must be at least one month long.'
+  calculating: 'calculating...'
+  calculate_again: 'Do you want to calculate again? (y/n)'
+  again_invalid: 'Please enter Y to calculate again or N to quit.'
+  goodbye: 'Have a great day! Toodles!'
+es:
+  loan_amount: 'Cuánto dinero desea pedir prestado (en USD)?'
+  annual_interest: "¿Cuál es el tipo de interés anual?"
+  loan_duration: '¿Cuál es la duración del préstamo?'
+  loan_years: 'Años:'
+  loan_months: 'Meses:'
+  valid_number: "No es un número válido. Vuelve a intentarlo."
+  loan_amount_zero: 'El importe del préstamo debe ser superior a 0.'
+  interest_negative: 'El tipo de interés no puede ser negativo.'
+  loan_duration_integer: 'Sólo los números enteros sirven para el plazo del préstamo.'
+  loan_duration_negative: 'La duración del préstamo no puede ser negativa.'
+  loan_duration_zero: 'El plazo del préstamo debe ser de al menos un mes.'
+  calculating: 'calculando...'
+  calculate_again: '¿Desea calcular de nuevo? (sí/no)'
+  again_invalid: 'Introduzca Y para calcular de nuevo o N para salir.'
+  goodbye: "¡Que tengas un buen día! ¡Toodles!"
