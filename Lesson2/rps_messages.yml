@@ -1,0 +1,51 @@
+en:
+  welcome: 
+    "Welcome to Rock Paper Scissors Lizard Spock!\n
+
+    The rules of this variation on Rock-Paper-Scissors are as follows:\n
+
+    Scissors cuts paper, paper covers rock, rock crushes lizard,
+
+    Lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard,
+    
+    Lizard eats paper, paper disproves Spock, Spock vaporizes rock,
+    
+    and Rock, as it always has, crushes Scissors."
+  name?: "What's your name?"
+  invalid_name: 'Surely you must have a name?'
+
+  shorthand: "You can also enter a shorthand! (i.e. 'r' -> 'rock')"
+  invalid_rps_choice: "That's not a valid option!"
+  more_than_one: "Sorry, that wasn't clear enough. Did you mean one of these?\n"
+  tie: "It's a tie!"
+  user_win: 'You win!'
+  computer_win: 'Computer wins!'
+
+  play_again?: 'Play again? (Y/N)'
+  invalid_again: 'Please enter Y for yes or N for no.'
+
+es:
+  welcome: 
+    "Bienvenido a Piedra, Papel o Tijera Lagarto Spock.\n
+
+    Las reglas de esta variación de Piedra-Papel-Tijeras son las siguientes:\n
+
+    Las tijeras cortan el papel, el papel cubre la piedra, la piedra aplasta al lagarto,
+
+    La lagartija envenena a Spock, Spock rompe las tijeras, las tijeras decapitan a la lagartija,
+    
+    lagarto come papel, papel refuta a Spock, Spock vaporiza a la roca,
+    
+    y Roca, como siempre ha hecho, aplasta Tijeras."
+  name?: "¿Cómo te llamas?"
+  invalid_name: '¿Seguro que tienes un nombre?'
+
+  shorthand: "También puede introducir una abreviatura (por ejemplo, 'r' -> 'rock')"
+  invalid_rps_choice: "¡Esa no es una opción válida!"
+  more_than_one: "Lo siento, no fue lo suficientemente claro. ¿Te referías a uno de estos?\n"
+  tie: "¡Es un empate!"
+  user_win: '¡Tú ganas!'
+  computer_win: '¡Gana el ordenador!'
+
+  play_again?: '¿Volver a jugar? (S/N)'
+  invalid_again: 'Por favor, introduzca Y para sí o N para no.'
