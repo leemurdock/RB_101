@@ -142,5 +142,3 @@ loop do
   # Again?
   break unless calculate_again?
 end
-
-prompt('goodbye')
