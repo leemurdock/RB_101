@@ -11,7 +11,7 @@ WINNING_SCORE = 3
 
 def prompt(key)
   message = MESSAGES[LANGUAGE][key] || key
-  puts ">> #{message}"
+  puts "#{message}"
 end
 
 # Inputs
@@ -143,4 +143,5 @@ loop do
   break unless play_again?
 end
 
+system('clear')
 prompt("Thanks for playing, #{name}. Au revoir!")
